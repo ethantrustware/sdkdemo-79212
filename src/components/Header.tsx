@@ -13,6 +13,7 @@ export const Header = () => {
     >
       <div className="container mx-auto px-6 py-4 flex items-center justify-between">
         <div className="flex items-center gap-3">
+          <span className="text-sm font-medium text-muted-foreground">Powered by</span>
           <img src={trustwareLogo} alt="Trustware" className="h-[5.25rem]" />
           <span className="text-xs font-medium bg-purple-primary/10 text-purple-primary px-2.5 py-1 rounded-full border border-purple-primary/20">
             DEMO
