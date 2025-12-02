@@ -77,11 +77,10 @@ const Index = () => {
           </div>
         </DemoSection>
 
-        {/* Original HyperYield Content Below */}
-        <div className="relative bg-background text-foreground">
+        {/* Original HyperYield Content Below - Hidden for now */}
+        {/* <div className="relative bg-background text-foreground">
           <Hero />
-          
-        </div>
+        </div> */}
 
         {/* CTA Section */}
         <section className="min-h-screen flex items-center justify-center px-4 py-24 relative overflow-hidden bg-blue-100/60">
